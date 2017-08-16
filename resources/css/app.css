@@ -1,0 +1,59 @@
+.icon-user {
+    background-image: url(../images/default/user.png) !important;
+}
+
+.icon-user-add {
+    background-image: url(../images/default/user_add.png) !important;
+}
+
+.icon-save {
+    background-image: url(../images/default/save.png) !important;
+}
+
+.icon-reset {
+    background-image: url(../images/default/stop.png) !important;
+}
+
+.icon-cancela {
+    background-image: url(../images/default/cancela.png) !important;
+}
+
+.icon-grid {
+    background-image: url(../images/default/grid.png) !important;
+}
+
+.icon-add {
+    background-image: url(../images/default/add.png) !important;
+}
+
+.icon-delete {
+    background-image: url(../images/default/delete.png) !important;
+}
+
+.icon-editar {
+    background-image: url(../images/default/pencil_add.png) !important;
+}
+
+.icon-lock {
+    background-image: url(../images/default/lock.png) !important;
+}
+
+.icon-historico {
+    background-image: url(../images/default/book_open.png) !important;
+}
+
+.iconsearch {
+    background-image: url(../images/default/search.png) !important;
+}
+
+.iconrede {
+    background-image: url(../images/default/rede.png) !important;
+}
+
+.iconlogout {
+    background-image: url(../images/default/logout.png) !important;
+}
+
+.iconadmin {
+    background-image: url(../images/default/Admin.png) !important;
+}

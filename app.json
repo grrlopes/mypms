@@ -1,0 +1,10 @@
+{
+    "name": "mypms",
+
+    "requires": [
+        "ext-locale",
+        "ext-theme"
+    ],
+    "theme": "ext-theme-gray",
+    "id": "4665941b-a7c4-4034-bcec-bdfb6da032ad"
+}
