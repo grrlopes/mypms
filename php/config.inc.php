@@ -10,17 +10,17 @@ define("USER", "root");
 define("SENHA", "123456");
 
 define("LHOST", "localhost");
-define("LUSER","cn=Manager,dc=portalsigres,dc=com");
+define("LUSER","cn=Manager,dc=dominio,dc=com");
 define("LSENHA","123456");
-define("LARVORE","dc=portalsigres,dc=com");
-define("LARVORE1","ou=Groups,dc=portalsigres,dc=com");
+define("LARVORE","dc=dominio,dc=com");
+define("LARVORE1","ou=Groups,dc=dominio,dc=com");
 define("LPORTA","389");
 define("LGRUPO","Infraestrutura");
 
 define("ADHOST","ldap://10.130.214.252");
-define("ADUSER","SERVICEMYPMS@indproj.com.br");
-define("ADSENHA","mp23@troo");
-define("ADARVORE","dc=indproj,dc=com,dc=br");
+define("ADUSER","SERVICEMYPMS@dominio.com.br");
+define("ADSENHA","senha");
+define("ADARVORE","dc=dominio,dc=com,dc=br");
 define("ADPORTA", "389");
 
 function __autoload($Class){
