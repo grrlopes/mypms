@@ -57,9 +57,11 @@ define("ADSENHA","senha");
 define("ADARVORE","dc=dominio,dc=com,dc=br");
 define("ADPORTA", "389");
 ```
+
 Ex:
-FIXO | VALOR
------------- | -------------
-HOST | "IP do Servidor de banco de dados"
-BANCO | "Nome do schema"
+
+FIXO   | VALOR
+------ | ------
+HOST   | "IP do Servidor de banco de dados"
+BANCO  | "Nome do schema"
 ADHOST | "ldap://IP do Servidor Active Directory"

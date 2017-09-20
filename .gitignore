@@ -2,4 +2,5 @@ sencha-error*
 build/production/*
 build/temp/*
 ext/
+.sencha/
 
