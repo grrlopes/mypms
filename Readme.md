@@ -1,9 +1,11 @@
 MyPMS
 ============
 
-Sistema de gerenciamento de senhas.
+<p align="center">
+  <img src="https://i.imgur.com/7lKWsKM.png">
+</p>
 
-Ojetivo
+Objetivo
 -------
 
 MyPMS tem como objetivo, provisionar servidores por IP, hostname, localidade, projeto, ambiente, pais, serial, descrição e situação(ativo/disativado). Armazenamento de credenciais tanto individual como compartilha com base na regra de niveis de acesso.
@@ -65,3 +67,7 @@ FIXO   | VALOR
 HOST   | "IP do Servidor de banco de dados"
 BANCO  | "Nome do schema"
 ADHOST | "ldap://IP do Servidor Active Directory"
+
+<p align="center">
+  <a href="https://imgur.com/zDuBnnO"><img src="https://i.imgur.com/zDuBnnO.png" title="source: imgur.com" /></a>
+</p>
