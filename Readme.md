@@ -69,5 +69,5 @@ BANCO  | "Nome do schema"
 ADHOST | "ldap://IP do Servidor Active Directory"
 
 <p align="center">
-  <a href="https://imgur.com/zDuBnnO"><img src="https://i.imgur.com/zDuBnnO.png" title="source: imgur.com" /></a>
+  <img src="https://i.imgur.com/zDuBnnO.png">
 </p>
